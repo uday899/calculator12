@@ -22,6 +22,7 @@ def multiply(a, b):
     """
     # TODO: Implement multiplication
     pass
+    return a*b
 
 def divide(a, b):
     """
