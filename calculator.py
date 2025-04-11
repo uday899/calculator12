@@ -29,5 +29,6 @@ def divide(a, b):
     Returns the result of dividing a by b.
     Raise ValueError if b is zero.
     """
+    return a/b
     # TODO: Implement division with error handling
     pass
