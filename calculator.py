@@ -21,8 +21,8 @@ def multiply(a, b):
     Returns the product of a and b.
     """
     # TODO: Implement multiplication
-    pass
     return a*b
+    pass
 
 def divide(a, b):
     """
